@@ -1,6 +1,5 @@
 - 👋 Meu nome e jonas.
 - Estou a procura de um emprego na area de T.I
-- Estou aprofundando meu conhecimento em python 
 - Sou formado em analise e desenvolvimento de sistemas
 - Linkedin: https://www.linkedin.com/in/jonas-mendes-53069311a/
 
